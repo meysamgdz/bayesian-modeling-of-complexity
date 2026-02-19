@@ -1,0 +1,1 @@
+This repo contains the teaching material for the course Bayesian Modeling of Complexity.
